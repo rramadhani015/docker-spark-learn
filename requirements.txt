@@ -1,0 +1,14 @@
+psycopg2-binary
+apache-airflow-providers-google
+apache-airflow-providers-apache-beam
+apache-airflow-providers-jdbc
+apache-airflow-providers-postgres
+pytz
+boto3
+pandas
+dbt-postgres==1.1.1  
+dbt-core==1.1.1 
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+gspread==5.5.0
